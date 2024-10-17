@@ -1,0 +1,68 @@
+.heh{
+    color:#183b56;
+    font-size: 30px;
+    font-family: 'Roboto';
+    font-weight: 800;
+}
+.hp{
+    color:#5a7184;
+    font-size: 22px;
+    font-family: 'Roboto';
+}
+.hbb{
+    background-color: #d0b200;
+    color:white;
+    width:130px;
+    height:50px;
+    border-width:0px;
+    border-radius:10px;
+
+}
+.ptr{
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.para{
+    color: #959ead;
+    font-family: "Roboto";
+
+}
+.fooimg{
+    width:100px;
+}
+.fft{
+    background-color: #0d2436;
+}
+.fcc{
+    background-color: #faf7e8;
+    width:80px;
+    height:80px;
+    padding-left: 22px;
+    padding-top: 22px;
+    padding-right: 16px;
+    padding-bottom: 14px;
+    border-radius: 40px;
+    margin:10px;
+}
+.himg{
+    width:200px;
+    height:200px;
+}
+.di{
+    width:70px;
+}
+.icon{
+    color:#d0b200;
+    font-size:35px;
+
+}
+
+.thanking{
+   
+    background-color: #d0b2001a;
+}
+.timg{
+    width:270px;
+    margin-top:20px;
+}

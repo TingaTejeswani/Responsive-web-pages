@@ -1,0 +1,201 @@
+.bimg{
+    height:100px;
+    width:100px;
+}
+.bc{
+    color:#f5f7fa;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 24px;
+}
+.boutline{
+
+ width:130px;
+    height:45px;
+   color: #d0b200;
+   border-color: #d0b200;
+   border-style:solid;
+   border-width:2px;
+   border-radius:8px;
+   background-color: transparent;
+}
+.bbuton{
+    width:130px;
+    height:45px;
+    margin-right:10px;
+    color:white;
+    border-radius:8px;
+    border-width:0;
+    background-color: #d0b200;
+
+}
+.bh{
+    color:white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 400;
+}
+#bnav1{
+    color: #32354b;
+    font-family:"Roboto";
+}
+#bnav2{
+    color: #32354b;
+    font-family:"Roboto";
+}
+#bnav3{
+    color: #32354b;
+    font-family:"Roboto";
+}
+#bnav4{
+    color: #32354b;
+    font-family:"Roboto";
+}
+.bbg{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size:cover;
+    height:100vh;
+}
+.wcu{
+    background-color: #f9fbfe;
+
+   
+}
+.wh{
+    color:#183b56;
+    font-family:'Roboto';
+    font-size: 40px;
+    font-weight: bold;
+}
+.wp{
+    color:#5a7184;
+    font-family:'Roboto';
+    font-size: 20px;
+
+}
+.wimg{
+    height:90px;
+    width:85px;
+}
+.wcuh{
+    color:#323f4b;
+    font-family:'Roboto';
+    font-size: 25px;
+    font-weight:500;
+}
+.wcup{
+    color:#7b8794;
+    font-family:'Roboto';
+    font-size: 20px;
+    
+}
+.wcard{
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width:1px;
+    border-color:#e5eaf4;
+    border-radius: 12px;
+}
+.offers{
+    font-style:italic;
+    font-weight:bold;
+    color:black;
+}
+.eh{
+    color:#183b56;
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 30px;
+}
+.eimg{
+    border-radius:15px;
+}
+.emm{
+    border-radius: 15px;
+}
+.emct{
+    color:#183b56;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 24px;
+}
+.emlink{
+    color:#d0b200;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 18px;
+}
+.heh{
+    color:#183b56;
+    font-size: 30px;
+    font-family: 'Roboto';
+    font-weight: 800;
+}
+.hp{
+    color:#5a7184;
+    font-size: 22px;
+    font-family: 'Roboto';
+}
+.hbb{
+    background-image: linear-gradient(#d0b200,#a58d00);
+    color:white;
+    width:130px;
+    height:50px;
+    border-width:0px;
+    border-radius:10px;
+
+}
+.fcc{
+    background-color: #faf7e8;
+    width:80px;
+    height:80px;
+    padding-left: 22px;
+    padding-top: 22px;
+    padding-right: 16px;
+    padding-bottom: 14px;
+    border-radius: 40px;
+    margin:10px;
+}
+.himg{
+    width:200px;
+    height:200px;
+}
+.di{
+    width:70px;
+}
+.icon{
+    color:#d0b200;
+    font-size:35px;
+
+}
+.ptr{
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.tcsdes{
+    color:#d0b200;
+    font-weight: 800;
+}
+.para{
+    color: #959ead;
+    font-family: "Roboto";
+
+}
+.fooimg{
+    width:100px;
+}
+.fft{
+    background-color: #0d2436;
+}
+
+.thanking{
+   
+    background-image: radial-gradient(#f2e462,#fae38c);
+
+}
+.timg{
+    width:270px;
+    margin-top:20px;
+}

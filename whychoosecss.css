@@ -1,0 +1,46 @@
+.wcu{
+    background-color: #f9fbfe;
+
+   
+}
+.wh{
+    color:#183b56;
+    font-family:'Roboto';
+    font-size: 40px;
+    font-weight: bold;
+}
+.wp{
+    color:#5a7184;
+    font-family:'Roboto';
+    font-size: 20px;
+
+}
+.wimg{
+    height:90px;
+    width:85px;
+}
+.wcuh{
+    color:#323f4b;
+    font-family:'Roboto';
+    font-size: 25px;
+    font-weight:500;
+}
+.wcup{
+    color:#7b8794;
+    font-family:'Roboto';
+    font-size: 20px;
+    
+}
+.wcard{
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width:1px;
+    border-color:#e5eaf4;
+    border-radius: 12px;
+}
+.offers{
+    font-style:italic;
+    font-weight:bold;
+    color:black;
+}
